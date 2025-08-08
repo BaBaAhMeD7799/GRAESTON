@@ -1,4 +1,4 @@
 {
-  "CURRENT_VERSION": "64Bit v1.0",
-  "LATEST_VERSION": "64Bit v1.1",
-  } 
+  "version": "1.1",
+  "lib_url": "https://github.com/BaBaAhMeD7799/GRAESTON/raw/main/libGRAESTON.so"
+}
